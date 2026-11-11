@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+config/usuarios.json
+config/*.local.json
+public/vendor/agora.js
+*.log
+.DS_Store
+.DS_Store
+node_modules/
+.env
